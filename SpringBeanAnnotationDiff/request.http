@@ -1,0 +1,20 @@
+GET http://localhost:8080/v1/annotation-test-rest/get-mapping-with-http-servlet-request-and-id/25
+Accept: application/json
+
+###
+GET http://localhost:8080/v1/annotation-test-rest/get-mapping-without-parameter
+Accept: application/json
+
+###
+GET http://localhost:8080/v1/annotation-test-rest/get-mapping-with-http-servlet-request
+Accept: application/json
+
+###
+GET http://localhost:8080/v1/annotation-test-controller/get-controller-method-only-with-request-and-response
+Accept: application/json
+
+###
+GET http://localhost:8080/v1/annotation-test-controller/get-controller-method-with-response-body-and-request-and-response
+Accept: application/json
+
+###

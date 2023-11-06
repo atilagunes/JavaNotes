@@ -1,0 +1,8 @@
+GET http://localhost:8080/v1/prototype-scope-test/default
+Accept: application/json
+
+###
+GET http://localhost:8080/v1/prototype-scope-test-another/default
+Accept: application/json
+
+###
